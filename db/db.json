@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "harish",
+      "email": "kuteharish@gmail.com",
+      "password": "Harish@0703"
+    },
+    {
+      "id": "52a7",
+      "email": "kue@gmail.com",
+      "name": "Harish",
+      "password": "Harish@0703"
+    },
+    {
+      "id": "eb09",
+      "email": "kuteharish@gmail.com",
+      "name": "HarishKute",
+      "password": "Harish@0703"
+    },
+    {
+      "id": "22f5",
+      "email": "ajinkya@gmail.com",
+      "name": "Ajinkya",
+      "password": "Harish@0703"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "45ce",
+      "userName": "harish",
+      "title": "The Reader",
+      "subtitle": "Related ",
+      "blogtext": "hiii i am Harish",
+      "likes": 30
+    },
+    {
+      "id": "7f6e",
+      "userName": "Ajinkya",
+      "title": "Chatrapati",
+      "subtitle": "related",
+      "blogtext": "hii am ajinkya",
+      "likes": 29
+    }
+  ]
+}
